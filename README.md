@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/yash797">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800000&color=70A4FC&width=440&height=45&lines=Pratham+More" alt="Yash Pande" title="Hi there"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800000&color=70A4FC&width=440&height=45&lines=Yash+Pande" alt="Yash Pande" title="Hi there"/></a>
 </p>
 
 <p align="center">
