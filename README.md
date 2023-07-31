@@ -69,4 +69,4 @@
 	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=yash797&theme=tokyonight" alt = "Yash Pande's Streak Stats">
 	
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash797&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/toplangs/username=yash797&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
