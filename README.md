@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/PRATHAM2002-DS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800000&color=70A4FC&width=440&height=45&lines=Pratham+More" alt="Pratham More" title="Hi there"/></a>
+  <a href="https://github.com/yash797">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800000&color=70A4FC&width=440&height=45&lines=Pratham+More" alt="Yash Pande" title="Hi there"/></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/PRATHAM2002-DS">
+<a href="https://github.com/yash797">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Cloud+and+DevOps;Distributed+Systems+enthusiast;Building+Something+Creative" /></a>
 </p>
 <h3 align = "center">I am a Electronics and Telecommunication Engineering Undergraduate, Full Stack Web App Developer and Cloud and DevOps enthusiast.</h3>
@@ -13,7 +13,7 @@
 	<img src = "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width = "500">
 </p>
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=PRATHAM2002-DS&color=blue&style=flat" alt="PRATHAM2002-DS"></a>
+	<img src = "https://komarev.com/ghpvc/?username=yash797&color=blue&style=flat" alt="yash797"></a>
 </p>
 
 <p align = "center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align = "center">
-	<img src = "https://github-readme-stats.vercel.app/api?username=PRATHAM2002-DS&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt = "Pratham More's Github Stats">
+	<img src = "https://github-readme-stats.vercel.app/api?username=yash797&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt = "Yash Pande's Github Stats">
 	<br/>
-	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=PRATHAM2002-DS&theme=tokyonight" alt = "Pratham More's Streak Stats">
+	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=yash797&theme=tokyonight" alt = "Yash Pande's Streak Stats">
 </p>
